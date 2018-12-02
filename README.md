@@ -13,8 +13,7 @@ Byron Thornton
 Interactive display for brownie recipe.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bct16.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. All jQuery is usable with JavaScript rules
